@@ -33,7 +33,7 @@ a {
   top: 0;
   left: 0;
 }
-header {
+.header-bar {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
